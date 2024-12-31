@@ -2,7 +2,7 @@
 <html>
 <body>
     <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
     </head>
     <form action="add">
         <label for="num1">Enter 1st Number:</label>
